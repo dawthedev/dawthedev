@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="assets/banner-daw.svg?v=2" alt="DAW - Web Developer" width="100%" />
+  <img src="assets/banner-daw-v2.svg" alt="DAW - Web Developer" width="100%" />
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@
 | :-- | :-- | :-- |
 | **[aplikasi-peminjaman-alat](https://github.com/dawthedev/aplikasi-peminjaman-alat)** | Data alat, transaksi pinjam, pengembalian, dan status stok. | `Laravel` `PHP` `MySQL` |
 | **[Tugas-portal-berita](https://github.com/dawthedev/Tugas-portal-berita)** | Portal berita: kategori, daftar artikel, dan detail berita. | `Laravel` `Blade` |
-| **[desain-figma-code-website](https://github.com/dawthedev/desain-figma-code-website)** | Konversi desain Figma menjadi website responsif. | `Blade` `HTML` `CSS` |
+| **[desain-figma-code-website](https://github.com/dawthedev/desain-figma-code-website)** | Konversi rancangan desain menjadi website responsif. | `Blade` `HTML` `CSS` |
 | **[middleware-laravel](https://github.com/dawthedev/middleware-laravel)** | Middleware Laravel untuk kontrol akses route. | `Laravel` `Blade` |
 | **[mockup](https://github.com/dawthedev/mockup)** | Kumpulan mockup UI sebagai acuan implementasi. | `Blade` `HTML` |
 
