@@ -45,7 +45,7 @@
 | :-- | :-- | :-- |
 | **[aplikasi-peminjaman-alat](https://github.com/dawthedev/aplikasi-peminjaman-alat)** | Data alat, transaksi pinjam, pengembalian, dan status stok. | `Laravel` `PHP` `MySQL` |
 | **[Tugas-portal-berita](https://github.com/dawthedev/Tugas-portal-berita)** | Portal berita: kategori, daftar artikel, dan detail berita. | `Laravel` `Blade` |
-| **[desain-figma-code-website](https://github.com/dawthedev/desain-figma-code-website)** | Konversi rancangan desain menjadi website responsif. | `Blade` `HTML` `CSS` |
+| **[desain-ke-website](https://github.com/dawthedev/desain-ke-website)** | Konversi rancangan desain menjadi website responsif. | `Blade` `HTML` `CSS` |
 | **[middleware-laravel](https://github.com/dawthedev/middleware-laravel)** | Middleware Laravel untuk kontrol akses route. | `Laravel` `Blade` |
 | **[mockup](https://github.com/dawthedev/mockup)** | Kumpulan mockup UI sebagai acuan implementasi. | `Blade` `HTML` |
 
