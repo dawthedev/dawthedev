@@ -4,8 +4,8 @@
 
 <div align="center">
 
-**Web Developer** · Laravel · Blade · PHP · Figma
-*Banda Aceh, Indonesia*
+**Web Developer** · Laravel · Blade · PHP · Figma<br/>
+*Indonesia*
 
 </div>
 
