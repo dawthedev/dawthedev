@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="assets/banner-lotm.svg" alt="Dwi Andika - Web Developer" width="100%" />
+﻿<div align="center">
+  <img src="assets/banner-lotm.svg" alt="DAW - Web Developer" width="100%" />
 </div>
 
 <div align="center">
@@ -10,19 +10,19 @@
 
 ---
 
-## &#8544;. Tentang Penulis · About the Author
+## &#8544;. Tentang Penulis Â· About the Author
 
-**ID** — Saya membangun aplikasi web dari nol: mulai dari desain di Figma, implementasi Laravel + Blade, sampai database MySQL. Saya suka antarmuka yang bersih, kode yang rapi, dan proyek yang benar-benar dipakai.
+**ID** â€” Saya membangun aplikasi web dari nol: mulai dari desain di Figma, implementasi Laravel + Blade, sampai database MySQL. Saya suka antarmuka yang bersih, kode yang rapi, dan proyek yang benar-benar dipakai.
 
-**EN** — I build web apps end to end: Figma design, Laravel + Blade implementation, MySQL data layer. I care about clean interfaces, readable code, and projects that actually get used.
+**EN** â€” I build web apps end to end: Figma design, Laravel + Blade implementation, MySQL data layer. I care about clean interfaces, readable code, and projects that actually get used.
 
-- &#128302; **Sedang dikerjakan · In progress:** aplikasi peminjaman alat & portal berita berbasis Laravel
-- &#127793; **Sedang dipelajari · Learning:** REST API, testing, deployment
-- &#129309; **Terbuka untuk · Open to:** kolaborasi proyek, freelance web
+- &#128302; **Sedang dikerjakan Â· In progress:** aplikasi peminjaman alat & portal berita berbasis Laravel
+- &#127793; **Sedang dipelajari Â· Learning:** REST API, testing, deployment
+- &#129309; **Terbuka untuk Â· Open to:** kolaborasi proyek, freelance web
 
 ---
 
-## &#8545;. Teknik · Techniques
+## &#8545;. Teknik Â· Techniques
 
 <div align="center">
 
@@ -41,26 +41,26 @@
 
 ---
 
-## &#8546;. Catatan · Records
+## &#8546;. Catatan Â· Records
 
-| Bab · Chapter | Ringkasan · Summary | Teknik |
+| Bab Â· Chapter | Ringkasan Â· Summary | Teknik |
 | :-- | :-- | :-- |
-| **[aplikasi-peminjaman-alat](https://github.com/dwiandikaw95-sys/aplikasi-peminjaman-alat)** | Data alat, transaksi pinjam, pengembalian, dan status stok. | `Laravel` `PHP` `MySQL` |
-| **[Tugas-portal-berita](https://github.com/dwiandikaw95-sys/Tugas-portal-berita)** | Portal berita: kategori, daftar artikel, dan detail berita. | `Laravel` `Blade` |
-| **[desain-figma-code-website](https://github.com/dwiandikaw95-sys/desain-figma-code-website)** | Konversi desain Figma menjadi website responsif. | `Blade` `HTML` `CSS` |
-| **[dwi_middleware](https://github.com/dwiandikaw95-sys/dwi_middleware)** | Middleware Laravel untuk kontrol akses route. | `Laravel` `Blade` |
-| **[mockup](https://github.com/dwiandikaw95-sys/mockup)** | Kumpulan mockup UI sebagai acuan implementasi. | `Blade` `Figma` |
+| **[aplikasi-peminjaman-alat](https://github.com/dawthedev/aplikasi-peminjaman-alat)** | Data alat, transaksi pinjam, pengembalian, dan status stok. | `Laravel` `PHP` `MySQL` |
+| **[Tugas-portal-berita](https://github.com/dawthedev/Tugas-portal-berita)** | Portal berita: kategori, daftar artikel, dan detail berita. | `Laravel` `Blade` |
+| **[desain-figma-code-website](https://github.com/dawthedev/desain-figma-code-website)** | Konversi desain Figma menjadi website responsif. | `Blade` `HTML` `CSS` |
+| **[middleware-laravel](https://github.com/dawthedev/middleware-laravel)** | Middleware Laravel untuk kontrol akses route. | `Laravel` `Blade` |
+| **[mockup](https://github.com/dawthedev/mockup)** | Kumpulan mockup UI sebagai acuan implementasi. | `Blade` `Figma` |
 
-<sub>Semua arsip &rarr; [github.com/dwiandikaw95-sys?tab=repositories](https://github.com/dwiandikaw95-sys?tab=repositories)</sub>
+<sub>Semua arsip &rarr; [github.com/dawthedev?tab=repositories](https://github.com/dawthedev?tab=repositories)</sub>
 
 ---
 
-## &#8547;. Perbintangan · Observatory
+## &#8547;. Perbintangan Â· Observatory
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dwiandikaw95-sys&show_icons=true&hide_border=true&title_color=c9a227&icon_color=c9a227&text_color=cdbf9f&bg_color=0a0a0b" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwiandikaw95-sys&layout=compact&hide_border=true&title_color=c9a227&text_color=cdbf9f&bg_color=0a0a0b" alt="Top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dawthedev&show_icons=true&hide_border=true&title_color=c9a227&icon_color=c9a227&text_color=cdbf9f&bg_color=0a0a0b" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawthedev&layout=compact&hide_border=true&title_color=c9a227&text_color=cdbf9f&bg_color=0a0a0b" alt="Top languages" />
 
 </div>
 
@@ -70,10 +70,10 @@
 
 &#10022;
 
-**Mari terhubung · Let's connect**
+**Mari terhubung Â· Let's connect**
 
-[![GitHub](https://img.shields.io/badge/dwiandikaw95--sys-C9A227?style=flat-square&logo=github&logoColor=0a0a0b)](https://github.com/dwiandikaw95-sys)
+[![GitHub](https://img.shields.io/badge/dawthedev-C9A227?style=flat-square&logo=github&logoColor=0a0a0b)](https://github.com/dawthedev)
 
-<sub>Terima kasih sudah mampir · Thanks for stopping by</sub>
+<sub>Terima kasih sudah mampir Â· Thanks for stopping by</sub>
 
 </div>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Dwi Andika - Web Developer">
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="DAW - Web Developer">
   <defs>
     <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#0a0a0b"/>
@@ -98,7 +98,7 @@
 
   <g font-family="Georgia, 'Times New Roman', serif">
     <text x="70" y="112" font-size="12" fill="#9c8a63" letter-spacing="6.5">BEYOND THE FOG</text>
-    <text x="68" y="190" font-size="66" fill="url(#gold)" letter-spacing="3" font-weight="400">DWI ANDIKA</text>
+    <text x="68" y="190" font-size="66" fill="url(#gold)" letter-spacing="3" font-weight="400">DAW</text>
     <g stroke="#c9a227" stroke-opacity="0.5" stroke-width="0.9">
       <path d="M70 214h300"/><path d="M392 214h120"/>
     </g>
