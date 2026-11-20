@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="DAW - Web Developer - animated Lord of the Mysteries banner">
   <defs>
-    <!-- palette -->
     <linearGradient id="ink" x1="0" y1="0" x2="0.35" y2="1">
       <stop offset="0%" stop-color="#07070a"/>
       <stop offset="38%" stop-color="#0c0b0a"/>
@@ -17,12 +16,6 @@
       <stop offset="100%" stop-color="#e8d8a6"/>
     </linearGradient>
 
-    <linearGradient id="goldSoft" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#e8d8a6"/>
-      <stop offset="50%" stop-color="#c9a227"/>
-      <stop offset="100%" stop-color="#8f7126"/>
-    </linearGradient>
-
     <linearGradient id="goldLine" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#c9a227" stop-opacity="0"/>
       <stop offset="16%" stop-color="#e2cd93" stop-opacity="0.8"/>
@@ -31,7 +24,7 @@
     </linearGradient>
 
     <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#f3e2ae" stop-opacity="0.10"/>
+      <stop offset="0%" stop-color="#f3e2ae" stop-opacity="0.09"/>
       <stop offset="100%" stop-color="#f3e2ae" stop-opacity="0"/>
     </linearGradient>
 
@@ -46,8 +39,8 @@
 
     <linearGradient id="barSweep" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#fff8e1" stop-opacity="0"/>
-      <stop offset="46%" stop-color="#fff8e1" stop-opacity="0.05"/>
-      <stop offset="54%" stop-color="#fff8e1" stop-opacity="0.05"/>
+      <stop offset="46%" stop-color="#fff8e1" stop-opacity="0.045"/>
+      <stop offset="54%" stop-color="#fff8e1" stop-opacity="0.045"/>
       <stop offset="100%" stop-color="#fff8e1" stop-opacity="0"/>
     </linearGradient>
 
@@ -58,7 +51,7 @@
     </radialGradient>
 
     <radialGradient id="nameGlow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0%" stop-color="#e2cd93" stop-opacity="0.15"/>
+      <stop offset="0%" stop-color="#e2cd93" stop-opacity="0.14"/>
       <stop offset="100%" stop-color="#e2cd93" stop-opacity="0"/>
     </radialGradient>
 
@@ -96,133 +89,125 @@
       <circle cx="45" cy="39" r="0.4" fill="#fff8e1" fill-opacity="0.3"/>
     </pattern>
 
-    <pattern id="chain" width="18" height="6" patternUnits="userSpaceOnUse">
-      <circle cx="9" cy="3" r="2.1" fill="none" stroke="#c9a227" stroke-opacity="0.28" stroke-width="0.7"/>
-    </pattern>
-
-    <path id="ringPath" d="M-164,0a164,164 0 1,1 328,0a164,164 0 1,1 -328,0"/>
+    <path id="ringPath" d="M-156,0a156,156 0 1,1 312,0a156,156 0 1,1 -312,0"/>
   </defs>
 
   <!-- ground -->
   <rect width="1280" height="420" fill="url(#ink)"/>
   <rect width="1280" height="420" fill="url(#stars)"/>
 
-  <!-- watermark numeral -->
-  <text x="596" y="436" font-family="Georgia, 'Times New Roman', serif" font-size="310" letter-spacing="6" fill="#c9a227" fill-opacity="0.032">XIII</text>
-
   <!-- light shafts -->
   <g fill="url(#beam)">
     <polygon points="1096,0 1280,0 1280,214 1180,0"/>
     <polygon points="1230,0 1280,0 1280,120 1252,0"/>
   </g>
-  <ellipse cx="1010" cy="205" rx="310" ry="255" fill="url(#fogLight)"/>
+  <ellipse cx="960" cy="200" rx="300" ry="250" fill="url(#fogLight)"/>
 
   <!-- horizontal light bar sweep -->
-  <rect x="-400" y="0" width="420" height="420" fill="url(#barSweep)" transform="skewX(-18)">
+  <rect x="-420" y="0" width="420" height="420" fill="url(#barSweep)" transform="skewX(-18)">
     <animate attributeName="x" values="-420; 1290; -420" dur="14s" repeatCount="indefinite"/>
   </rect>
 
   <!-- constellation -->
   <g opacity="0.55">
-    <path d="M636 56L700 96L762 46L809 102" fill="none" stroke="#c9a227" stroke-opacity="0.34" stroke-width="0.9"/>
-    <circle cx="636" cy="56" r="1.6" fill="#e2cd93"/>
-    <circle cx="700" cy="96" r="1.2" fill="#e2cd93"/>
-    <circle cx="762" cy="46" r="1.4" fill="#e2cd93"/>
-    <circle cx="809" cy="102" r="1" fill="#e2cd93"/>
+    <path d="M592 60L652 98L712 52L758 106" fill="none" stroke="#c9a227" stroke-opacity="0.3" stroke-width="0.9"/>
+    <circle cx="592" cy="60" r="1.6" fill="#e2cd93"/>
+    <circle cx="652" cy="98" r="1.2" fill="#e2cd93"/>
+    <circle cx="712" cy="52" r="1.4" fill="#e2cd93"/>
+    <circle cx="758" cy="106" r="1" fill="#e2cd93"/>
   </g>
   <g>
-    <circle cx="636" cy="56" r="2.1" fill="#fff8e1">
+    <circle cx="592" cy="60" r="2.1" fill="#fff8e1">
       <animate attributeName="opacity" values="0.2;0.95;0.2" dur="4.2s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="762" cy="46" r="1.9" fill="#fff8e1">
+    <circle cx="712" cy="52" r="1.9" fill="#fff8e1">
       <animate attributeName="opacity" values="0.85;0.15;0.85" dur="5.6s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="809" cy="102" r="1.6" fill="#fff8e1">
+    <circle cx="758" cy="106" r="1.6" fill="#fff8e1">
       <animate attributeName="opacity" values="0.2;0.9;0.2" dur="7s" begin="1.2s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="556" cy="96" r="1.4" fill="#fff8e1">
+    <circle cx="540" cy="108" r="1.4" fill="#fff8e1">
       <animate attributeName="opacity" values="0.15;0.8;0.15" dur="6.2s" begin="0.6s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1226" cy="156" r="1.5" fill="#fff8e1">
+    <circle cx="1232" cy="176" r="1.5" fill="#fff8e1">
       <animate attributeName="opacity" values="0.2;0.85;0.2" dur="5s" begin="2s" repeatCount="indefinite"/>
     </circle>
   </g>
 
   <!-- ravens -->
-  <g fill="#0b0b0d" opacity="0.9">
+  <g fill="#0b0b0d" opacity="0.85">
     <animateTransform attributeName="transform" type="translate" values="0 0; 4 -3; 0 0" dur="12s" repeatCount="indefinite"/>
-    <path d="M742 66c6-7 15-10 20-10-4 4-6 8-6 12 5-3 11-4 16-3-5 5-9 9-11 14-4-3-9-6-14-8-3-2-4-3-5-5z"/>
-    <path d="M1156 92c5-6 12-8 17-8-4 3-5 6-5 10 4-2 9-3 13-2-4 4-7 7-9 11-3-2-7-5-11-7-3-1-4-2-5-4z" opacity="0.75"/>
+    <path d="M700 78c5-6 13-9 18-9-4 4-5 7-5 11 5-3 10-4 14-3-4 4-8 8-10 12-3-2-8-5-12-7-3-1-4-2-5-4z"/>
+    <path d="M1216 344c5-6 12-8 17-8-4 3-5 6-5 9 4-2 8-3 12-2-4 4-7 7-9 10-3-2-7-4-11-6-2-1-3-2-4-3z" opacity="0.7"/>
   </g>
 
   <!-- ritual circle -->
-  <g transform="translate(930,206)">
-    <circle r="196" fill="url(#coreGlow)">
+  <g transform="translate(896,206)">
+    <circle r="186" fill="url(#coreGlow)">
       <animate attributeName="opacity" values="0.6;1;0.6" dur="6.5s" repeatCount="indefinite"/>
     </circle>
 
-    <circle r="176" fill="none" stroke="#c9a227" stroke-opacity="0.12" stroke-width="0.9"/>
-    <circle r="150" fill="none" stroke="#c9a227" stroke-opacity="0.20" stroke-width="1"/>
+    <circle r="168" fill="none" stroke="#c9a227" stroke-opacity="0.12" stroke-width="0.9"/>
+    <circle r="142" fill="none" stroke="#c9a227" stroke-opacity="0.2" stroke-width="1"/>
 
     <!-- engraved text ring -->
-    <g opacity="0.62">
+    <g opacity="0.5">
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="300s" repeatCount="indefinite"/>
-      <text font-family="Georgia, 'Times New Roman', serif" font-size="9.5" letter-spacing="4.6" fill="#cbb98d">
-        <textPath href="#ringPath" textLength="1006" lengthAdjust="spacing">&#10022; BEYOND THE FOG &#183; THE ARTISAN &#183; ORDO MYSTICORUM &#183; DI BALIK KABUT &#183;</textPath>
+      <text font-family="Georgia, 'Times New Roman', serif" font-size="9" letter-spacing="4" fill="#cbb98d">
+        <textPath href="#ringPath" textLength="948" lengthAdjust="spacing">&#10022; BEYOND THE FOG &#183; THE ARTISAN &#183; ORDO MYSTICORUM &#183; DI BALIK KABUT &#183;</textPath>
       </text>
     </g>
 
     <g>
       <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="110s" repeatCount="indefinite"/>
-      <circle r="164" fill="none" stroke="#c9a227" stroke-opacity="0.42" stroke-width="1.3" stroke-dasharray="1.6 22"/>
+      <circle r="158" fill="none" stroke="#c9a227" stroke-opacity="0.4" stroke-width="1.2" stroke-dasharray="1.5 20"/>
     </g>
 
     <g>
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="170s" repeatCount="indefinite"/>
-      <circle r="126" fill="none" stroke="#c9a227" stroke-opacity="0.22" stroke-width="0.9" stroke-dasharray="26 12"/>
+      <circle r="120" fill="none" stroke="#c9a227" stroke-opacity="0.22" stroke-width="0.9" stroke-dasharray="24 11"/>
     </g>
 
-    <g opacity="0.8">
+    <g opacity="0.78">
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="260s" repeatCount="indefinite"/>
-      <polygon points="0,-126 109,63 -109,63" fill="none" stroke="#c9a227" stroke-opacity="0.24" stroke-width="0.9"/>
-      <polygon points="0,126 109,-63 -109,-63" fill="none" stroke="#c9a227" stroke-opacity="0.24" stroke-width="0.9"/>
+      <polygon points="0,-120 104,60 -104,60" fill="none" stroke="#c9a227" stroke-opacity="0.24" stroke-width="0.9"/>
+      <polygon points="0,120 104,-60 -104,-60" fill="none" stroke="#c9a227" stroke-opacity="0.24" stroke-width="0.9"/>
     </g>
 
-    <!-- cardinal marks -->
-    <g stroke="#c9a227" stroke-opacity="0.5" stroke-width="1">
-      <line x1="0" y1="-176" x2="0" y2="-166"/>
-      <line x1="0" y1="176" x2="0" y2="166"/>
-      <line x1="-176" y1="0" x2="-166" y2="0"/>
-      <line x1="176" y1="0" x2="166" y2="0"/>
+    <g stroke="#c9a227" stroke-opacity="0.45" stroke-width="1">
+      <line x1="0" y1="-168" x2="0" y2="-158"/>
+      <line x1="0" y1="168" x2="0" y2="158"/>
+      <line x1="-168" y1="0" x2="-158" y2="0"/>
+      <line x1="168" y1="0" x2="158" y2="0"/>
     </g>
 
     <g fill="#c9a227">
-      <circle cx="0" cy="-176" r="2.4" fill-opacity="0.8">
+      <circle cx="0" cy="-168" r="2.3" fill-opacity="0.8">
         <animate attributeName="fill-opacity" values="0.3;0.95;0.3" dur="7s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="176" cy="0" r="2.2" fill-opacity="0.6"/>
-      <circle cx="0" cy="176" r="2.2" fill-opacity="0.6"/>
-      <circle cx="-176" cy="0" r="2.2" fill-opacity="0.6"/>
-      <g fill-opacity="0.5">
-        <circle cx="109" cy="63" r="1.5"/>
-        <circle cx="-109" cy="63" r="1.5"/>
-        <circle cx="109" cy="-63" r="1.5"/>
-        <circle cx="-109" cy="-63" r="1.5"/>
+      <circle cx="168" cy="0" r="2.1" fill-opacity="0.55"/>
+      <circle cx="0" cy="168" r="2.1" fill-opacity="0.55"/>
+      <circle cx="-168" cy="0" r="2.1" fill-opacity="0.55"/>
+      <g fill-opacity="0.45">
+        <circle cx="104" cy="60" r="1.5"/>
+        <circle cx="-104" cy="60" r="1.5"/>
+        <circle cx="104" cy="-60" r="1.5"/>
+        <circle cx="-104" cy="-60" r="1.5"/>
       </g>
     </g>
   </g>
 
   <!-- moon -->
-  <g transform="translate(1192,56)">
-    <circle r="24" fill="#c9a227" fill-opacity="0.09">
-      <animate attributeName="fill-opacity" values="0.05;0.18;0.05" dur="8s" repeatCount="indefinite"/>
+  <g transform="translate(1012,44)">
+    <circle r="22" fill="#c9a227" fill-opacity="0.08">
+      <animate attributeName="fill-opacity" values="0.05;0.16;0.05" dur="8s" repeatCount="indefinite"/>
     </circle>
-    <path d="M-12 0a12 12 0 1 1 24 0 12 12 0 0 1-24 0z" fill="none" stroke="#e2cd93" stroke-opacity="0.55" stroke-width="1"/>
+    <path d="M-12 0a12 12 0 1 1 24 0 12 12 0 0 1-24 0z" fill="none" stroke="#e2cd93" stroke-opacity="0.5" stroke-width="1"/>
     <circle cx="5" cy="0" r="12" fill="#07070a"/>
   </g>
 
   <!-- tarot card -->
-  <g transform="translate(1044,92) rotate(-6)">
+  <g transform="translate(1048,90) rotate(-6)">
     <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="11s" repeatCount="indefinite" additive="sum"/>
     <rect x="0" y="0" width="176" height="232" rx="6" fill="#0d0c0a" stroke="url(#gold)" stroke-width="1.6"/>
     <rect x="0" y="0" width="176" height="232" rx="6" fill="url(#lattice)"/>
@@ -279,7 +264,7 @@
   </g>
 
   <!-- name glow -->
-  <ellipse cx="352" cy="182" rx="236" ry="132" fill="url(#nameGlow)">
+  <ellipse cx="352" cy="184" rx="236" ry="132" fill="url(#nameGlow)">
     <animate attributeName="opacity" values="0.75;1;0.75" dur="9s" repeatCount="indefinite"/>
   </ellipse>
 
@@ -298,35 +283,36 @@
     <text x="84" y="200" font-size="90" letter-spacing="4" fill="url(#gold)">DAW</text>
     <text x="84" y="200" font-size="90" letter-spacing="4" fill="url(#sweep)">DAW</text>
 
-    <!-- flourish divider -->
-    <g stroke="url(#goldLine)" fill="none" stroke-width="1">
-      <path d="M88 222h96c10 0 14 6 20 6s10-6 20-6h28"/>
-      <path d="M88 226h84c9 0 12 5 18 5s9-5 18-5h22" stroke-opacity="0.5"/>
+    <!-- divider: two rules, center diamond, end dot -->
+    <g stroke="#c9a227">
+      <line x1="88" y1="226" x2="196" y2="226" stroke-opacity="0.45" stroke-width="1"/>
+      <line x1="88" y1="230" x2="170" y2="230" stroke-opacity="0.16" stroke-width="0.8"/>
+      <line x1="220" y1="226" x2="300" y2="226" stroke-opacity="0.22" stroke-width="0.8"/>
     </g>
-    <circle cx="248" cy="220" r="1.8" fill="#c9a227" fill-opacity="0.8"/>
+    <path d="M208 220.5l5.5 5.5-5.5 5.5-5.5-5.5z" fill="#c9a227" fill-opacity="0.75"/>
 
-    <text x="88" y="252" font-size="12.5" letter-spacing="3.6" fill="#cdbf9f">WEB DEVELOPER</text>
-    <text x="88" y="274" font-size="12.5" letter-spacing="3.6" fill="#8f8268">LARAVEL &#183; BLADE &#183; MYSQL</text>
+    <text x="88" y="258" font-size="12.5" letter-spacing="3.6" fill="#cdbf9f">WEB DEVELOPER</text>
+    <text x="88" y="280" font-size="12.5" letter-spacing="3.6" fill="#8f8268">LARAVEL &#183; BLADE &#183; MYSQL</text>
 
-    <text x="88" y="306" font-size="14.5" font-style="italic" fill="#9a8b6f">Di balik kabut, kode mengambil bentuk.</text>
+    <text x="88" y="314" font-size="14.5" font-style="italic" fill="#9a8b6f">Di balik kabut, kode mengambil bentuk.</text>
 
-    <!-- pills: uniform height 30, aligned baseline y=336 -->
+    <!-- pills: uniform height 30 -->
     <g font-size="10.5" letter-spacing="2.4" fill="#cbb98d" text-anchor="middle">
       <g>
-        <rect x="88" y="320" width="74" height="30" rx="3" fill="#c9a227" fill-opacity="0.05" stroke="#c9a227" stroke-opacity="0.52"/>
-        <text x="125" y="339">PHP</text>
+        <rect x="88" y="334" width="74" height="30" rx="3" fill="#c9a227" fill-opacity="0.05" stroke="#c9a227" stroke-opacity="0.52"/>
+        <text x="125" y="353">PHP</text>
       </g>
       <g>
-        <rect x="172" y="320" width="104" height="30" rx="3" fill="#c9a227" fill-opacity="0.05" stroke="#c9a227" stroke-opacity="0.52"/>
-        <text x="224" y="339">LARAVEL</text>
+        <rect x="172" y="334" width="104" height="30" rx="3" fill="#c9a227" fill-opacity="0.05" stroke="#c9a227" stroke-opacity="0.52"/>
+        <text x="224" y="353">LARAVEL</text>
       </g>
       <g>
-        <rect x="286" y="320" width="84" height="30" rx="3" fill="#c9a227" fill-opacity="0.05" stroke="#c9a227" stroke-opacity="0.52"/>
-        <text x="328" y="339">BLADE</text>
+        <rect x="286" y="334" width="84" height="30" rx="3" fill="#c9a227" fill-opacity="0.05" stroke="#c9a227" stroke-opacity="0.52"/>
+        <text x="328" y="353">BLADE</text>
       </g>
       <g>
-        <rect x="380" y="320" width="84" height="30" rx="3" fill="#c9a227" fill-opacity="0.05" stroke="#c9a227" stroke-opacity="0.52"/>
-        <text x="422" y="339">MYSQL</text>
+        <rect x="380" y="334" width="84" height="30" rx="3" fill="#c9a227" fill-opacity="0.05" stroke="#c9a227" stroke-opacity="0.52"/>
+        <text x="422" y="353">MYSQL</text>
       </g>
     </g>
   </g>
@@ -361,7 +347,6 @@
     <rect x="20" y="20" width="1240" height="380" stroke-opacity="0.14" stroke-width="0.8"/>
     <rect x="26" y="26" width="1228" height="368" stroke-opacity="0.2" stroke-width="1" stroke-dasharray="2 9"/>
 
-    <!-- corner filigree -->
     <g stroke-opacity="0.55" stroke-width="1.2">
       <path d="M14 62v-34a14 14 0 0 1 14-14h34"/>
       <path d="M14 62q0-30 30-30"/>
@@ -377,7 +362,6 @@
       <path d="M1266 358q0 14-10 22"/>
     </g>
 
-    <!-- corner medallions -->
     <g stroke-opacity="0.6" stroke-width="0.9">
       <g transform="translate(45,45)">
         <circle r="7" fill="#07070a"/><circle r="7"/>
@@ -413,7 +397,6 @@
       </g>
     </g>
 
-    <!-- top and bottom cartouches -->
     <g stroke-opacity="0.45" stroke-width="1">
       <line x1="574" y1="14" x2="626" y2="14"/>
       <line x1="654" y1="14" x2="706" y2="14"/>
