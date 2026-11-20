@@ -156,7 +156,7 @@
     <circle r="128" fill="none" stroke="#c9a227" stroke-opacity="0.2" stroke-width="1"/>
 
     <!-- engraved text ring -->
-    <g opacity="0.5">
+    <g opacity="0.55">
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="300s" repeatCount="indefinite"/>
       <text font-family="Georgia, 'Times New Roman', serif" font-size="9" letter-spacing="4" fill="#cbb98d">
         <textPath href="#ringPath" textLength="868" lengthAdjust="spacing">&#10022; BEYOND THE FOG &#183; THE ARTISAN &#183; ORDO MYSTICORUM &#183; DI BALIK KABUT &#183;</textPath>
@@ -177,6 +177,39 @@
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="260s" repeatCount="indefinite"/>
       <polygon points="0,-112 97,56 -97,56" fill="none" stroke="#c9a227" stroke-opacity="0.24" stroke-width="0.9"/>
       <polygon points="0,112 97,-56 -97,-56" fill="none" stroke="#c9a227" stroke-opacity="0.24" stroke-width="0.9"/>
+    </g>
+
+    <!-- centre sigil -->
+    <g opacity="0.62">
+      <circle r="44" fill="none" stroke="#c9a227" stroke-opacity="0.3" stroke-width="0.8"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="80s" repeatCount="indefinite"/>
+        <circle r="38" fill="none" stroke="#c9a227" stroke-opacity="0.18" stroke-width="0.7" stroke-dasharray="1 7"/>
+      </g>
+      <path d="M0,-27L24,14L-24,14Z" fill="none" stroke="#e2cd93" stroke-opacity="0.5" stroke-width="1"/>
+      <g>
+        <animate attributeName="opacity" values="0.55;0.95;0.55" dur="5.5s" repeatCount="indefinite"/>
+        <path d="M-12 0q12-9 24 0-12 9-24 0z" fill="none" stroke="#e2cd93" stroke-opacity="0.85" stroke-width="1"/>
+        <circle r="1.6" fill="#e2cd93">
+          <animate attributeName="r" values="1.6;2.4;1.6" dur="3.8s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+    </g>
+
+    <!-- rune ticks around the ring -->
+    <g fill="#c9a227" fill-opacity="0.32">
+      <path d="M0,-160.2L2.2,-158L0,-155.8L-2.2,-158Z"/>
+      <path d="M136.9,-78.9L139.1,-76.7L136.9,-74.5L134.7,-76.7Z"/>
+      <path d="M136.9,78.9L139.1,81.1L136.9,83.3L134.7,81.1Z"/>
+      <path d="M0,155.8L2.2,158L0,160.2L-2.2,158Z"/>
+      <path d="M-136.9,78.9L-134.7,81.1L-136.9,83.3L-139.1,81.1Z"/>
+      <path d="M-136.9,-78.9L-134.7,-76.7L-136.9,-74.5L-139.1,-76.7Z"/>
+      <path d="M79.2,-136.7L81.4,-134.5L79.2,-132.3L77,-134.5Z"/>
+      <path d="M79.2,132.3L81.4,134.5L79.2,136.7L77,134.5Z"/>
+      <path d="M-79.2,132.3L-77,134.5L-79.2,136.7L-81.4,134.5Z"/>
+      <path d="M-79.2,-136.7L-77,-134.5L-79.2,-132.3L-81.4,-134.5Z"/>
+      <path d="M158.2,0L160.4,2.2L158.2,4.4L156,2.2Z"/>
+      <path d="M-158.2,0L-156,2.2L-158.2,4.4L-160.4,2.2Z"/>
     </g>
 
     <g stroke="#c9a227" stroke-opacity="0.45" stroke-width="1">

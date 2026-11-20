@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="assets/banner-lotm-v7.svg" alt="DAW - Web Developer" width="100%" />
+  <img src="assets/banner-lotm-v8.svg" alt="DAW - Web Developer" width="100%" />
 </div>
 
 <div align="center">
