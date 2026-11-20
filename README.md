@@ -4,8 +4,7 @@
 
 <div align="center">
 
-**Web Developer** · Laravel · Blade · PHP · Figma<br/>
-*Indonesia*
+**Web Developer** · Laravel · Blade · PHP · Figma
 
 </div>
 
@@ -13,9 +12,9 @@
 
 ## 👋 Tentang saya · About me
 
-**ID** — Saya Dwi Andika, mahasiswa informatika yang membangun aplikasi web dari nol: mulai dari desain di Figma, implementasi Laravel + Blade, sampai database MySQL. Saya suka antarmuka yang bersih, kode yang rapi, dan proyek yang benar-benar dipakai.
+**ID** - Saya membangun aplikasi web dari nol: mulai dari desain di Figma, implementasi Laravel + Blade, sampai database MySQL. Saya suka antarmuka yang bersih, kode yang rapi, dan proyek yang benar-benar dipakai.
 
-**EN** — I'm a computer science student who builds web apps end to end: Figma design, Laravel + Blade implementation, MySQL data layer. I care about clean interfaces, readable code, and projects that actually get used.
+**EN** - I build web apps end to end: Figma design, Laravel + Blade implementation, MySQL data layer. I care about clean interfaces, readable code, and projects that actually get used.
 
 - 🔭 Sedang mengerjakan · *Building:* aplikasi peminjaman alat & portal berita berbasis Laravel
 - 🌱 Sedang belajar · *Learning:* REST API, testing, deployment
