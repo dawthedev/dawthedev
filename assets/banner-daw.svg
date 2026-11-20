@@ -103,7 +103,7 @@
       <path d="M70 214h300"/><path d="M392 214h120"/>
     </g>
     <path d="M360 214l8 5-8 5-8-5z" fill="#c9a227" fill-opacity="0.75"/>
-    <text x="70" y="248" font-size="15" fill="#cdbf9f" letter-spacing="3.4">WEB DEVELOPER &#183; LARAVEL &#183; BLADE &#183; FIGMA</text>
+    <text x="70" y="248" font-size="15" fill="#cdbf9f" letter-spacing="3.4">WEB DEVELOPER &#183; LARAVEL &#183; BLADE</text>
     <text x="70" y="288" font-size="15.5" fill="#8f8268" font-style="italic">Di balik kabut, kode mengambil bentuk.</text>
   </g>
 
@@ -115,8 +115,6 @@
       <text x="103" y="3" fill="#cbb98d">LARAVEL</text>
       <rect x="202" y="-15" width="82" height="26" rx="3" fill="none" stroke="#c9a227" stroke-opacity="0.55"/>
       <text x="217" y="3" fill="#cbb98d">BLADE</text>
-      <rect x="294" y="-15" width="80" height="26" rx="3" fill="none" stroke="#c9a227" stroke-opacity="0.55"/>
-      <text x="309" y="3" fill="#cbb98d">FIGMA</text>
     </g>
   </g>
 

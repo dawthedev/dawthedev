@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="assets/banner-daw.svg" alt="DAW - Web Developer" width="100%" />
+  <img src="assets/banner-daw.svg?v=2" alt="DAW - Web Developer" width="100%" />
 </div>
 
 <div align="center">
@@ -12,9 +12,9 @@
 
 ## &#8544;. Tentang Penulis &middot; About the Author
 
-**ID** &mdash; Saya membangun aplikasi web dari nol: mulai dari desain di Figma, implementasi Laravel + Blade, sampai database MySQL. Saya suka antarmuka yang bersih, kode yang rapi, dan proyek yang benar-benar dipakai.
+**ID** &mdash; Saya membangun aplikasi web dari nol: mulai dari rancangan antarmuka, implementasi Laravel + Blade, sampai database MySQL. Saya suka antarmuka yang bersih, kode yang rapi, dan proyek yang benar-benar dipakai.
 
-**EN** &mdash; I build web apps end to end: Figma design, Laravel + Blade implementation, MySQL data layer. I care about clean interfaces, readable code, and projects that actually get used.
+**EN** &mdash; I build web apps end to end: interface design, Laravel + Blade implementation, MySQL data layer. I care about clean interfaces, readable code, and projects that actually get used.
 
 - &#128302; **Sedang dikerjakan &middot; In progress:** aplikasi peminjaman alat &amp; portal berita berbasis Laravel
 - &#127793; **Sedang dipelajari &middot; Learning:** REST API, testing, deployment
@@ -33,8 +33,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-C9A227?style=flat-square&logo=javascript&logoColor=0a0a0b)
 ![HTML5](https://img.shields.io/badge/HTML5-C9A227?style=flat-square&logo=html5&logoColor=0a0a0b)
 ![CSS3](https://img.shields.io/badge/CSS3-C9A227?style=flat-square&logo=css3&logoColor=0a0a0b)
-![Tailwind](https://img.shields.io/badge/Tailwind-C9A227?style=flat-square&logo=tailwindcss&logoColor=0a0a0b)
-![Figma](https://img.shields.io/badge/Figma-C9A227?style=flat-square&logo=figma&logoColor=0a0a0b)
 ![Git](https://img.shields.io/badge/Git-C9A227?style=flat-square&logo=git&logoColor=0a0a0b)
 
 </div>
@@ -49,7 +47,7 @@
 | **[Tugas-portal-berita](https://github.com/dawthedev/Tugas-portal-berita)** | Portal berita: kategori, daftar artikel, dan detail berita. | `Laravel` `Blade` |
 | **[desain-figma-code-website](https://github.com/dawthedev/desain-figma-code-website)** | Konversi desain Figma menjadi website responsif. | `Blade` `HTML` `CSS` |
 | **[middleware-laravel](https://github.com/dawthedev/middleware-laravel)** | Middleware Laravel untuk kontrol akses route. | `Laravel` `Blade` |
-| **[mockup](https://github.com/dawthedev/mockup)** | Kumpulan mockup UI sebagai acuan implementasi. | `Blade` `Figma` |
+| **[mockup](https://github.com/dawthedev/mockup)** | Kumpulan mockup UI sebagai acuan implementasi. | `Blade` `HTML` |
 
 <sub>Semua arsip &rarr; [github.com/dawthedev?tab=repositories](https://github.com/dawthedev?tab=repositories)</sub>
 
