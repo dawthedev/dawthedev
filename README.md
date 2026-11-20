@@ -9,7 +9,10 @@
 
 <br /><br />
 
-<a href="#tentang">Tentang</a> &nbsp;&#183;&nbsp; <a href="#teknik">Teknik</a> &nbsp;&#183;&nbsp; <a href="#catatan">Catatan</a> &nbsp;&#183;&nbsp; <a href="#perbintangan">Perbintangan</a>
+<a href="#tentang"><img src="https://img.shields.io/badge/I-Tentang-C9A227?style=flat-square&labelColor=0a0a0b" alt="Tentang" /></a>
+<a href="#teknik"><img src="https://img.shields.io/badge/II-Teknik-C9A227?style=flat-square&labelColor=0a0a0b" alt="Teknik" /></a>
+<a href="#catatan"><img src="https://img.shields.io/badge/III-Catatan-C9A227?style=flat-square&labelColor=0a0a0b" alt="Catatan" /></a>
+<a href="#perbintangan"><img src="https://img.shields.io/badge/IV-Perbintangan-C9A227?style=flat-square&labelColor=0a0a0b" alt="Perbintangan" /></a>
 
 </div>
 
@@ -116,6 +119,8 @@ Sederhana dulu, benar kemudian, cepat sebagai akibat.
 ---
 
 <div align="center">
+
+<img src="assets/seal.svg" width="96" alt="Seal" />
 
 ### &#10022; &nbsp; Mari terhubung &nbsp;&#183;&nbsp; Let's connect &nbsp; &#10022;
 
