@@ -120,7 +120,7 @@ Sederhana dulu, benar kemudian, cepat sebagai akibat.
 
 <div align="center">
 
-<img src="assets/seal.svg" width="96" alt="Seal" />
+<img src="assets/seal-anim.svg" width="96" alt="Seal" />
 
 ### &#10022; &nbsp; Mari terhubung &nbsp;&#183;&nbsp; Let's connect &nbsp; &#10022;
 
