@@ -1,28 +1,62 @@
 ﻿<div align="center">
-  <img src="assets/banner-daw-v2.svg" alt="DAW - Web Developer" width="100%" />
+  <img src="assets/banner-lotm-v3.svg" alt="DAW - Web Developer" width="100%" />
 </div>
 
 <div align="center">
+<br />
 
 &#10022;&nbsp;&nbsp;<em>Di balik kabut, kode mengambil bentuk.</em>&nbsp;&nbsp;&#10022;
 
+<br /><br />
+
+<a href="#tentang">Tentang</a> &nbsp;&#183;&nbsp; <a href="#teknik">Teknik</a> &nbsp;&#183;&nbsp; <a href="#catatan">Catatan</a> &nbsp;&#183;&nbsp; <a href="#perbintangan">Perbintangan</a>
+
 </div>
+
+<br />
+
+> *Kabut tidak menyembunyikan jalan &mdash; ia hanya menunda cahaya. Yang tekun membaca jejak akan sampai juga.*
 
 ---
 
-## &#8544;. Tentang Penulis &middot; About the Author
+<a id="tentang"></a>
 
-**ID** &mdash; Saya membangun aplikasi web dari nol: mulai dari rancangan antarmuka, implementasi Laravel + Blade, sampai database MySQL. Saya suka antarmuka yang bersih, kode yang rapi, dan proyek yang benar-benar dipakai.
+## &#8544;. Tentang Penulis &nbsp;&#183;&nbsp; About the Author
+
+**ID** &mdash; Saya membangun aplikasi web dari nol: rancangan antarmuka, implementasi Laravel + Blade, sampai basis data MySQL. Saya menyukai antarmuka yang bersih, kode yang mudah dibaca, dan proyek yang benar-benar dipakai orang.
 
 **EN** &mdash; I build web apps end to end: interface design, Laravel + Blade implementation, MySQL data layer. I care about clean interfaces, readable code, and projects that actually get used.
 
-- &#128302; **Sedang dikerjakan &middot; In progress:** aplikasi peminjaman alat &amp; portal berita berbasis Laravel
-- &#127793; **Sedang dipelajari &middot; Learning:** REST API, testing, deployment
-- &#129309; **Terbuka untuk &middot; Open to:** kolaborasi proyek, freelance web
+<table>
+<tr><td width="50%" valign="top">
+
+**&#128302; Sedang dikerjakan**
+Aplikasi peminjaman alat &amp; portal berita berbasis Laravel.
+
+</td><td width="50%" valign="top">
+
+**&#127793; Sedang dipelajari**
+REST API, pengujian otomatis, dan deployment.
+
+</td></tr>
+<tr><td valign="top">
+
+**&#129309; Terbuka untuk**
+Kolaborasi proyek dan pekerjaan web freelance.
+
+</td><td valign="top">
+
+**&#9878; Prinsip**
+Sederhana dulu, benar kemudian, cepat sebagai akibat.
+
+</td></tr>
+</table>
 
 ---
 
-## &#8545;. Teknik &middot; Techniques
+<a id="teknik"></a>
+
+## &#8545;. Teknik &nbsp;&#183;&nbsp; Techniques
 
 <div align="center">
 
@@ -37,9 +71,24 @@
 
 </div>
 
+<br />
+
+<div align="center">
+
+| Lapis &middot; Layer | Perangkat &middot; Tools |
+| :-- | :-- |
+| Antarmuka &middot; Interface | `Blade` `HTML` `CSS` `JavaScript` |
+| Nalar &middot; Logic | `PHP` `Laravel` |
+| Arsip &middot; Data | `MySQL` |
+| Ritual &middot; Workflow | `Git` `GitHub` `VS Code` |
+
+</div>
+
 ---
 
-## &#8546;. Catatan &middot; Records
+<a id="catatan"></a>
+
+## &#8546;. Catatan &nbsp;&#183;&nbsp; Records
 
 | Bab &middot; Chapter | Ringkasan &middot; Summary | Teknik |
 | :-- | :-- | :-- |
@@ -49,16 +98,18 @@
 | **[middleware-laravel](https://github.com/dawthedev/middleware-laravel)** | Middleware Laravel untuk kontrol akses route. | `Laravel` `Blade` |
 | **[mockup](https://github.com/dawthedev/mockup)** | Kumpulan mockup UI sebagai acuan implementasi. | `Blade` `HTML` |
 
-<sub>Semua arsip &rarr; [github.com/dawthedev?tab=repositories](https://github.com/dawthedev?tab=repositories)</sub>
+<sub>Seluruh arsip &rarr; [github.com/dawthedev?tab=repositories](https://github.com/dawthedev?tab=repositories)</sub>
 
 ---
 
-## &#8547;. Perbintangan &middot; Observatory
+<a id="perbintangan"></a>
+
+## &#8547;. Perbintangan &nbsp;&#183;&nbsp; Observatory
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dawthedev&show_icons=true&hide_border=true&title_color=c9a227&icon_color=c9a227&text_color=cdbf9f&bg_color=0a0a0b" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawthedev&layout=compact&hide_border=true&title_color=c9a227&text_color=cdbf9f&bg_color=0a0a0b" alt="Top languages" />
+<img height="158" src="https://github-readme-stats.vercel.app/api?username=dawthedev&show_icons=true&hide_border=true&title_color=c9a227&icon_color=c9a227&text_color=cdbf9f&bg_color=0a0a0b" alt="GitHub stats" />
+<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawthedev&layout=compact&hide_border=true&title_color=c9a227&text_color=cdbf9f&bg_color=0a0a0b" alt="Top languages" />
 
 </div>
 
@@ -66,12 +117,10 @@
 
 <div align="center">
 
-&#10022;
-
-**Mari terhubung &middot; Let's connect**
+### &#10022; &nbsp; Mari terhubung &nbsp;&#183;&nbsp; Let's connect &nbsp; &#10022;
 
 [![GitHub](https://img.shields.io/badge/dawthedev-C9A227?style=flat-square&logo=github&logoColor=0a0a0b)](https://github.com/dawthedev)
 
-<sub>Terima kasih sudah mampir &middot; Thanks for stopping by</sub>
+<sub>&#10022; &nbsp; Terima kasih sudah mampir &nbsp;&#183;&nbsp; Thanks for stopping by &nbsp; &#10022;</sub>
 
 </div>
