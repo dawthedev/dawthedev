@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="assets/banner-lotm.svg" alt="DAW - Web Developer" width="100%" />
+  <img src="assets/banner-daw.svg" alt="DAW - Web Developer" width="100%" />
 </div>
 
 <div align="center">
@@ -10,19 +10,19 @@
 
 ---
 
-## &#8544;. Tentang Penulis Â· About the Author
+## &#8544;. Tentang Penulis &middot; About the Author
 
-**ID** â€” Saya membangun aplikasi web dari nol: mulai dari desain di Figma, implementasi Laravel + Blade, sampai database MySQL. Saya suka antarmuka yang bersih, kode yang rapi, dan proyek yang benar-benar dipakai.
+**ID** &mdash; Saya membangun aplikasi web dari nol: mulai dari desain di Figma, implementasi Laravel + Blade, sampai database MySQL. Saya suka antarmuka yang bersih, kode yang rapi, dan proyek yang benar-benar dipakai.
 
-**EN** â€” I build web apps end to end: Figma design, Laravel + Blade implementation, MySQL data layer. I care about clean interfaces, readable code, and projects that actually get used.
+**EN** &mdash; I build web apps end to end: Figma design, Laravel + Blade implementation, MySQL data layer. I care about clean interfaces, readable code, and projects that actually get used.
 
-- &#128302; **Sedang dikerjakan Â· In progress:** aplikasi peminjaman alat & portal berita berbasis Laravel
-- &#127793; **Sedang dipelajari Â· Learning:** REST API, testing, deployment
-- &#129309; **Terbuka untuk Â· Open to:** kolaborasi proyek, freelance web
+- &#128302; **Sedang dikerjakan &middot; In progress:** aplikasi peminjaman alat &amp; portal berita berbasis Laravel
+- &#127793; **Sedang dipelajari &middot; Learning:** REST API, testing, deployment
+- &#129309; **Terbuka untuk &middot; Open to:** kolaborasi proyek, freelance web
 
 ---
 
-## &#8545;. Teknik Â· Techniques
+## &#8545;. Teknik &middot; Techniques
 
 <div align="center">
 
@@ -41,9 +41,9 @@
 
 ---
 
-## &#8546;. Catatan Â· Records
+## &#8546;. Catatan &middot; Records
 
-| Bab Â· Chapter | Ringkasan Â· Summary | Teknik |
+| Bab &middot; Chapter | Ringkasan &middot; Summary | Teknik |
 | :-- | :-- | :-- |
 | **[aplikasi-peminjaman-alat](https://github.com/dawthedev/aplikasi-peminjaman-alat)** | Data alat, transaksi pinjam, pengembalian, dan status stok. | `Laravel` `PHP` `MySQL` |
 | **[Tugas-portal-berita](https://github.com/dawthedev/Tugas-portal-berita)** | Portal berita: kategori, daftar artikel, dan detail berita. | `Laravel` `Blade` |
@@ -55,7 +55,7 @@
 
 ---
 
-## &#8547;. Perbintangan Â· Observatory
+## &#8547;. Perbintangan &middot; Observatory
 
 <div align="center">
 
@@ -70,10 +70,10 @@
 
 &#10022;
 
-**Mari terhubung Â· Let's connect**
+**Mari terhubung &middot; Let's connect**
 
 [![GitHub](https://img.shields.io/badge/dawthedev-C9A227?style=flat-square&logo=github&logoColor=0a0a0b)](https://github.com/dawthedev)
 
-<sub>Terima kasih sudah mampir Â· Thanks for stopping by</sub>
+<sub>Terima kasih sudah mampir &middot; Thanks for stopping by</sub>
 
 </div>
